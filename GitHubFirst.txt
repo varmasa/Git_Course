@@ -3,5 +3,5 @@ Hello Users I'm From Kolkata, India.
 Currently using GitHub...
 What else next...
 Learning Git
-Then  fromu buntu vamsi
+Then  fromu linux vamsi
 test1
